@@ -31,15 +31,19 @@ Open a receipt and tap **Share**. To share several at once, tap **Select** in th
 
 ### How many free scans do I get?
 
-10 in total. After that, ExpensePDF Pro gives you unlimited scans. Your receipts stay available to view, edit and share either way.
+10 in total. After that, ExpensePDF Pro gives you unlimited scans: either Pro Yearly, which renews every year, or Pro Lifetime, which you pay for once. Your receipts stay available to view, edit and share either way.
 
 ### I've paid for Pro but the app doesn't show it
 
 Make sure you're signed in with the same Apple Account you used to buy it, then go to **Settings** and tap **Restore Purchases**.
 
-### How do I cancel ExpensePDF Pro?
+### How do I cancel Pro Yearly?
 
-In ExpensePDF, go to **Settings** and tap **Manage Subscription**. You can also cancel in the iPhone Settings app: tap your name, then **Subscriptions**. Pro carries on until the end of the year you've paid for.
+In ExpensePDF, go to **Settings** and tap **Manage Subscription**. You can also cancel in the iPhone Settings app: tap your name, then **Subscriptions**. Pro carries on until the end of the year you've paid for. Pro Lifetime never renews, so there's nothing to cancel.
+
+### I bought Lifetime but I'm still subscribed to Pro Yearly
+
+Lifetime covers everything, so cancel Pro Yearly in **Settings** → **Manage Subscription** to stop it renewing.
 
 ### How do I get a refund?
 

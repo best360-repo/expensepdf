@@ -1,6 +1,6 @@
 # ExpensePDF Privacy Policy
 
-*Last updated: 19 October 2026*
+*Last updated: 20 October 2026*
 
 ExpensePDF is an iPhone app made by Best360 Ltd ("we", "us"). It turns photos of paper receipts into clearly named PDF files. This policy explains what happens to your information when you use it.
 
@@ -34,7 +34,7 @@ When you share a PDF, you choose where it goes (for example Google Drive, Files,
 
 ## Purchases
 
-ExpensePDF Pro is sold through Apple's App Store. Apple handles the payment, and we never see your payment details or your Apple Account. The app checks your subscription with Apple on your iPhone.
+ExpensePDF Pro (Yearly or Lifetime) is sold through Apple's App Store. Apple handles the payment, and we never see your payment details or your Apple Account. The app checks your subscription with Apple on your iPhone.
 
 To limit the free plan to 10 scans, the app keeps the number of free scans you've used in your iPhone's keychain. It's just a number. It's synced to your other Apple devices if you use iCloud Keychain, and it stays if you delete the app, so the free scans aren't reset.
 

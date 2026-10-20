@@ -1,6 +1,6 @@
 # ExpensePDF Terms of Use
 
-*Last updated: 19 October 2026*
+*Last updated: 20 October 2026*
 
 These terms apply to the ExpensePDF iPhone app, made by Best360 Ltd ("we", "us"). By using the app you agree to them. They add to Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which also applies.
 
@@ -15,10 +15,11 @@ The app reads receipts automatically and can get details wrong. It highlights de
 ## Free plan and ExpensePDF Pro
 
 - The free plan includes 10 scans in total, not per month. Deleting receipts doesn't give scans back.
-- ExpensePDF Pro gives unlimited scans. It's a yearly subscription, and its price is shown in the app before you buy. Prices can vary by country.
+- ExpensePDF Pro gives unlimited scans. You can get it as Pro Yearly, a yearly subscription, or as Pro Lifetime, a one-off purchase. Prices are shown in the app before you buy, and can vary by country.
 - Payment is charged to your Apple Account when you confirm the purchase.
-- The subscription renews automatically each year unless you turn off auto-renewal at least 24 hours before the end of the current year. Your Apple Account is charged for the renewal within the 24 hours before the current year ends.
-- You can manage or cancel the subscription in ExpensePDF (Settings, then Manage Subscription) or in your Apple Account's subscription settings. Cancelling stops the next renewal; Pro carries on until the end of the year you've paid for.
+- Pro Yearly renews automatically each year unless you turn off auto-renewal at least 24 hours before the end of the current year. Your Apple Account is charged for the renewal within the 24 hours before the current year ends.
+- You can manage or cancel Pro Yearly in ExpensePDF (Settings, then Manage Subscription) or in your Apple Account's subscription settings. Cancelling stops the next renewal; Pro carries on until the end of the year you've paid for.
+- Pro Lifetime is paid once and doesn't renew. It stays with your Apple Account for as long as ExpensePDF is available, and you can restore it on your other iPhones.
 - Refunds are handled by Apple under its own policies, at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ## Your receipts
@@ -36,7 +37,7 @@ We work to keep ExpensePDF reliable, but we can't promise it will always work, b
 As far as the law allows:
 
 - we aren't responsible for losses that come from relying on details the app read without checking them, or for indirect or unforeseeable losses;
-- our total responsibility to you is limited to what you paid for ExpensePDF Pro in the 12 months before your claim.
+- our total responsibility to you is limited to what you paid for ExpensePDF Pro in the 12 months before your claim, or what you paid for Pro Lifetime.
 
 Nothing in these terms limits any responsibility that the law doesn't allow us to limit, or affects your legal rights as a consumer.
 
